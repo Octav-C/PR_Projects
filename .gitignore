@@ -2,7 +2,7 @@
 /build/
 /bin/
 target/
-/.recommenders/
+.recommenders
  
 # OS Files #
 .DS_Store
